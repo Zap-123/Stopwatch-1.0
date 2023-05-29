@@ -34,7 +34,8 @@ Or, try to run your terminal as an administrator.
 
 The program is quite simple.
 
-**Start** and **Pause** the stopwatch with the left button.
-**Reset** the stopwatch with the right button.
+* **Start** and **Pause** the stopwatch with the left button.   
+   
+* **Reset** the stopwatch with the right button.
 
 This stopwatch stays over all other windows. Have fun!
