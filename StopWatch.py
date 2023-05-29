@@ -9,6 +9,7 @@ root.title("Timer")
 root.configure(bg="black")
 root.geometry("210x125")
 root.wm_attributes("-topmost", True)
+root.resizable(width=False, height=False)
 
 # Define Variables
 is_running = False
